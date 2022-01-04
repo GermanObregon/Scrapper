@@ -1,0 +1,17 @@
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\bin\Debug\net5.0\BCR.ScrepperWeb.Service.deps.json
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\bin\Debug\net5.0\BCR.ScrepperWeb.Service.dll
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\bin\Debug\net5.0\ref\BCR.ScrepperWeb.Service.dll
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\bin\Debug\net5.0\BCR.ScrepperWeb.Service.pdb
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\bin\Debug\net5.0\BCR.WebScrapper.AccesData.dll
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\bin\Debug\net5.0\BCR.WebScrapper.Aplication.dll
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\bin\Debug\net5.0\BCR.WebScrapper.AccesData.pdb
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\bin\Debug\net5.0\BCR.WebScrapper.Aplication.pdb
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\obj\Debug\net5.0\BCR.ScrepperWeb.Service.csproj.AssemblyReference.cache
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\obj\Debug\net5.0\BCR.ScrepperWeb.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\obj\Debug\net5.0\BCR.ScrepperWeb.Service.AssemblyInfoInputs.cache
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\obj\Debug\net5.0\BCR.ScrepperWeb.Service.AssemblyInfo.cs
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\obj\Debug\net5.0\BCR.ScrepperWeb.Service.csproj.CoreCompileInputs.cache
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\obj\Debug\net5.0\BCR.ScrepperWeb.Service.dll
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\obj\Debug\net5.0\ref\BCR.ScrepperWeb.Service.dll
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\obj\Debug\net5.0\BCR.ScrepperWeb.Service.pdb
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.ScrepperWeb.Service\obj\Debug\net5.0\BCR.ScrepperWeb.Service.csproj.CopyComplete

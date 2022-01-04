@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Docker.DotNet" Version="3.125.5" />
+    <PackageReference Include="Selenium.WebDriver" Version="4.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BCR.WebScrapper.Aplication\BCR.WebScrapper.Aplication.csproj" />
+  </ItemGroup>
+
+</Project>

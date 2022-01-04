@@ -1,0 +1,12 @@
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.WebScrapper.Aplication\bin\Debug\net5.0\BCR.WebScrapper.Aplication.deps.json
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.WebScrapper.Aplication\bin\Debug\net5.0\BCR.WebScrapper.Aplication.dll
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.WebScrapper.Aplication\bin\Debug\net5.0\ref\BCR.WebScrapper.Aplication.dll
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.WebScrapper.Aplication\bin\Debug\net5.0\BCR.WebScrapper.Aplication.pdb
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.WebScrapper.Aplication\obj\Debug\net5.0\BCR.WebScrapper.Aplication.csproj.AssemblyReference.cache
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.WebScrapper.Aplication\obj\Debug\net5.0\BCR.WebScrapper.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.WebScrapper.Aplication\obj\Debug\net5.0\BCR.WebScrapper.Aplication.AssemblyInfoInputs.cache
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.WebScrapper.Aplication\obj\Debug\net5.0\BCR.WebScrapper.Aplication.AssemblyInfo.cs
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.WebScrapper.Aplication\obj\Debug\net5.0\BCR.WebScrapper.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.WebScrapper.Aplication\obj\Debug\net5.0\BCR.WebScrapper.Aplication.dll
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.WebScrapper.Aplication\obj\Debug\net5.0\ref\BCR.WebScrapper.Aplication.dll
+C:\Users\german.obregon\source\repos\BCR.ScrapperWeb\BCR.WebScrapper.Aplication\obj\Debug\net5.0\BCR.WebScrapper.Aplication.pdb
